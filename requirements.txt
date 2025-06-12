@@ -1,0 +1,4 @@
+requests
+markdownify
+playwright
+beautifulsoup4
