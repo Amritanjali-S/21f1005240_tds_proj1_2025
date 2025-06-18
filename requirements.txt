@@ -1,4 +1,13 @@
+
+typing-extensions
+pydantic
+html2text
+fastapi
+uvicorn
 requests
-markdownify
-playwright
 beautifulsoup4
+aiohttp
+markdownify
+python-dotenv
+Pillow
+google-generativeai
